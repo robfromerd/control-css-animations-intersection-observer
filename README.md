@@ -9,4 +9,4 @@ I set this up using CDNs for Bootstrap 5 and animate.css but you could serve the
 
 https://scrollanimationdemo.netlify.app/
 
-[See Demo at:](https://scrollanimationdemo.netlify.app/) {:target="_blank"}
+<a href="https://scrollanimationdemo.netlify.app/" target="_blank">See Demo</a>
